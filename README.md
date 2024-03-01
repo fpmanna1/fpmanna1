@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Francesco Pio Manna</h1>
-<h3 align="center">Computer Engineer MSc students in University of Naples Federico II</h3>
+<h3 align="center">MSc student in Computer Engineering at University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fpmanna1" alt="Francesco Pio Manna" /> </p>
 
