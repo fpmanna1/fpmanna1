@@ -16,7 +16,7 @@
 
 # 🌐 Connect with Me:
 <p align="left">
-  Linkedin  
+  Linkedin  ->
 <a href="https://www.linkedin.com/in/francesco-pio-manna/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francesco Pio Manna" height="30" width="40" />
 </a> 
