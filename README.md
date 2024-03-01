@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/fpmanna1?tab=repositories])
 
 - 📫 How to reach me **fpmanna1@gmail.com**
-  
+
+
+# 💻 Connect with Me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/francesco-pio-manna/" target="blank">
