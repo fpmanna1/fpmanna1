@@ -32,7 +32,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-fpmanna1.vercel.app/api?username=fpmanna1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fpmanna1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-mconti99.vercel.app/api/top-langs/?username=fpmanna1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-fpmanna1.vercel.app/api/top-langs/?username=fpmanna1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats-fpmanna1.vercel.app/api/top-langs/?username=fpmanna1=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
