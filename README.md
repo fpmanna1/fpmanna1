@@ -1,7 +1,7 @@
 </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWphcmtjemp2emJqaGxtZzMzb2kwcG92M3luaHAwOHRhajk0aXV5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
+  <!--<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/> -->
 </div>
 
 <h1 align="center">Hi 👋, I'm Francesco Pio Manna</h1>
