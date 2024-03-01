@@ -37,6 +37,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fpmanna1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![fpmanna1's Stats](https://github-readme-stats.vercel.app/api?username=fpmanna1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![fpmanna1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fpmanna1&theme=tokyonight&hide_border=false)
+![fpmanna1's Stats](https://github-readme-stats.vercel.app/api?username=fpmanna1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
+![fpmanna1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fpmanna1&theme=tokyonight&hide_border=false)<br/>
 ![fpmanna1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fpmanna1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
