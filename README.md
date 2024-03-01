@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
 </div>
@@ -11,7 +9,7 @@
 
 - 📚 working on MSc Thesis: BERT NLP legal domain. 
  
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/lelettrone?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/fpmanna1?tab=repositories])
 
 - 📫 How to reach me **emanuele.riccio2308@gmail.com**
   
