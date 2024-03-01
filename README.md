@@ -1,8 +1,6 @@
-
-<iframe src="https://giphy.com/embed/MKorKFj0Muz4P0CI7D" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MKorKFj0Muz4P0CI7D">via GIPHY</a>
-
 </p>
 <div id="header" align="center">
+  <img src="https://giphy.com/embed/MKorKFj0Muz4P0CI7D" width="100"/>
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
 </div>
 
