@@ -10,7 +10,7 @@
 
  <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fpmanna1" alt="Francesco Pio Manna" /> </p>-->
 
-- 📚 I'm looking for an Internship. 
+- 📚 I'm currently studying Big Data Engineering and Elaboration Plants
  
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/fpmanna1?tab=repositories])
 
