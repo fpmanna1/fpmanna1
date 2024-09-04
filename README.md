@@ -11,8 +11,6 @@
  <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fpmanna1" alt="Francesco Pio Manna" /> </p>-->
 
 - 📚 I'm currently doing an Internship for Hitachi Rail
-
-- Actually working as Software Engineer for Intecs Group
  
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/fpmanna1?tab=repositories])
 
