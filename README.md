@@ -6,7 +6,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Francesco Pio Manna</h1>
-<h3 align="center">Algorithm Engineer at Civitanavi Systems | MSc graduate in Computer Engineering at University of Naples Federico II</h3>
+<h3 align="center">🖥️ Computer engineer</h3>
+<h3 align="center">🏫 Actually Working as Algorithm Engineer for Civitanavi Systems</h3>
 
  <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fpmanna1" alt="Francesco Pio Manna" /> </p>-->
  
